@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: e6e5168b-db34-40a2-a44b-10b8f0657d1e
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    Protocol: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - RPC_AddCharacter
+  - updateName
+  - Jumping
+  - OnTriggerEnter
+  - Jumping_RPC
+  - PlayerMovement
+  - Frente
+  - Lado
+  - Instance
+  - PowerInstance
+  - Using_Slot1
+  - Using_Slot2
+  - S1_PowerUP1_Desarme
+  - S1_PowerUP10_Chamas
+  - S1_PowerUP2_Escudo
+  - S1_PowerUP3_Velocidade
+  - S1_PowerUP4_Teleport
+  - S1_PowerUP5_Ice
+  - S1_PowerUP6_Veneno
+  - S1_PowerUP7_Neblina
+  - S1_PowerUP8_Energia
+  - S1_PowerUP9_Choque
+  - GetID
+  - DestroyPower
+  - PowerUP3_Velocidade
+  - Ice_Hit
+  - PowerUP_5_Ice
+  - DestroyPWUP_List
+  - Congelamento
+  - Destroying
+  - DestroyToEffect
+  - PowerUP5_Ice
+  - DestroyPowerUP
+  - DestroyThis
+  - Disable
+  - Start_IceHit
+  - PowerUP7_Neblina
+  - PowerUP8_Esfera
+  - Start_EferaHit
+  - PowerUP6_Veneno
+  - Start_VenenoHit
+  - PowerUP2_Escudo
+  - PowerUP1_Desarme
+  - PowerUP9_Choque
+  - Start_ChoqueHit
+  - Start_EsferaHit
+  - PowerUP10_Chamas
+  - Start_ChamasHit
+  - PowerUP4_Teleport
+  - SetMode_Prafab
+  - Cancel_Speed
+  - Neblina_cancel
+  - Starting
+  - ShowName
+  - VictoryOrDefeat
+  - UpdateInterface
+  - SetDefeat
+  - SetWin
+  - SetWinner
+  - UpdateName
+  - Victory
+  - SetName
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
