@@ -3,7 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Inimigo
+  - Inimigo2
+  - Target
+  - JumpJacks
+  - Wall
+  - Ground
+  - Ice_Hit
+  - PowerUP
+  - GetMode
+  - GetStart
+  - FxTemporaire
+  - Victory
+  - GameSystem
   layers:
   - Default
   - TransparentFX
